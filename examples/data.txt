@@ -1,0 +1,35 @@
+30 Containers, ext4, dev net
+Scan 8 hosts x 1 NVTs
+Scan Duration 2:03h
+Results: 962
+Errors: 0
+Target load: 0
+
+30 Containers, ext4, dev net
+Scan 8 hosts x 10 NVTs
+Scan Duration 1:15h
+Results: 1115
+Errors: 168
+Target load: 0
+
+30 Containers, ext4, dev net
+Scan 15 hosts x 10 NVTs
+Scan Duration 0:58h
+Results: 1043
+Errors: 119
+Target load max. 2.22 (0.7% iowait)
+
+30 Containers, ext4, dev net
+Scan 30 hosts x 10 NVTs
+Scan Duration 0:44h
+Results: 1021
+Errors: 111
+Target load max. 3.45 (0.33% iowait)
+
+150 Container, btrfs, QM network
+Scan 60 hosts x 10 NVTs
+Scan Duration 1:38h
+Results: 4405
+Errors: 478
+Target load max. 228.4 (3.19% iowait)
+GSM Load: 32
